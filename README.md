@@ -69,7 +69,7 @@ To run this web app, you will need to have:
  - Also GitHub account
  - and Browser to view the web page
 
-# Then 
+### Then 
 
  - Clone the project
  - cd to your directory/download and
